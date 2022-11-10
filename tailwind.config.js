@@ -8,7 +8,12 @@ module.exports = {
       'Circular': ['Circular'],
       'SpaceMono': ['"Space Mono"']
     },
-    extend: {},
+    extend: {
+      colors: {
+        'purpleTh': '#6966FF',
+        'greyTh': '#C8C7D8'
+      },
+    },
   },
   plugins: [],
 }

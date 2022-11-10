@@ -22,10 +22,14 @@ body {
 }
 
 .hLine::after {
-  content: url("../public/images/hLine.png");
+  content: url("./assets/images/hLine.png");
   position: absolute;
   top: 33px;
   right: -20px;
+}
+
+.borderBlur {
+  border: 20px solid rgba(28, 28, 40, 0.5);
 }
 
 @media (max-width: 640px) {

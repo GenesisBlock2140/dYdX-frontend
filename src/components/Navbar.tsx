@@ -11,7 +11,7 @@ const Navbar: FC = () => {
           <p>Program expenses</p>
           <p>Blog</p>
           <p>FAQ</p>
-          <button className='bg-[#6966FF] p-3 rounded-[8px] text-white font-["Circular"]'>Apply for grant</button>
+          <button className='bg-purpleTh p-3 rounded-[8px] text-white font-["Circular"]'>Apply for grant</button>
         </div>
       </div>
     </>
